@@ -1,1 +1,1 @@
-BloodDonationApp that facilitates location and matching of donors to recipients.
+Blood DonationApp that facilitates location and matching of donors to recipients.
