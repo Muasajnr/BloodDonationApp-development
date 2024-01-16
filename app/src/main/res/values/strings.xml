@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">bloodproject application</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="compatible">Compatible</string>
+    <string name="home">Home</string>
+    <string name="donors_email">Donors Email</string>
+    <string name="donate">Donate</string>
+    <string name="history">History</string>
+
+
+    <string-array name="bloodgroups">
+        <item>Select your blood group</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string name="donor_message">The need for blood is Constant, and because there is no substitute for Blood, Lifeline Blood\nApplication relies on generosity  of everyday heroes like you to make sure there\'s enough\navailable to those who need it.\nEveryday all around the globe Many lose their lives due to lack of or Delayed transfusion.\nLifeline Blood Application is an Android Operating system based Mobile application developed to Find Donors, In a Critical situation.
+    </string>
+    <string name="search">Search</string>
+</resources>
